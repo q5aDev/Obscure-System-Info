@@ -1,0 +1,13 @@
+C:\Users\DuggF\source\repos\System Info\System Info\bin\Debug\System Info.exe.config
+C:\Users\DuggF\source\repos\System Info\System Info\bin\Debug\System Info.exe
+C:\Users\DuggF\source\repos\System Info\System Info\bin\Debug\System Info.pdb
+C:\Users\DuggF\source\repos\System Info\System Info\obj\Debug\System_Info.Form1.resources
+C:\Users\DuggF\source\repos\System Info\System Info\obj\Debug\System_Info.Properties.Resources.resources
+C:\Users\DuggF\source\repos\System Info\System Info\obj\Debug\System Info.csproj.GenerateResource.cache
+C:\Users\DuggF\source\repos\System Info\System Info\obj\Debug\System Info.csproj.CoreCompileInputs.cache
+C:\Users\DuggF\source\repos\System Info\System Info\obj\Debug\System Info.exe
+C:\Users\DuggF\source\repos\System Info\System Info\obj\Debug\System Info.pdb
+C:\Users\DuggF\source\repos\System Info\System Info\obj\Debug\System Info.csproj.CopyComplete
+C:\Users\DuggF\source\repos\System Info\System Info\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DuggF\source\repos\System Info\System Info\obj\Debug\System Info.csproj.Fody.CopyLocal.cache
+C:\Users\DuggF\source\repos\System Info\System Info\obj\Debug\System Info.csprojAssemblyReference.cache
